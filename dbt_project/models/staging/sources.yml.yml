@@ -1,0 +1,6 @@
+sources:
+  - name: healthcare_raw
+    database: HEALTHCARE_DB
+    schema: RAW
+    tables:
+      - name: PATIENTS
